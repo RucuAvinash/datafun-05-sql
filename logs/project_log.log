@@ -1,0 +1,76 @@
+2025-09-24 16:26:41.215 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-24 16:26:41.216 | INFO     | __main__:setup_database:36 - Starting database setup...
+2025-09-24 16:26:41.219 | INFO     | __main__:setup_database:41 - Connected to: C:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-24 16:26:41.243 | INFO     | __main__:execute_sql_file:12 - Executed: Drop.sql
+2025-09-24 16:26:41.244 | ERROR    | __main__:execute_sql_file:14 - Failed to execute Create.sql: [Errno 2] No such file or directory: 'C:\\Repos\\datafun-05-sql\\sql_files\\Create.sql'
+2025-09-24 16:26:41.244 | ERROR    | __main__:setup_database:52 - Database setup failed: [Errno 2] No such file or directory: 'C:\\Repos\\datafun-05-sql\\sql_files\\Create.sql'
+2025-09-24 16:27:46.296 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-24 16:27:46.297 | INFO     | __main__:setup_database:36 - Starting database setup...
+2025-09-24 16:27:46.297 | INFO     | __main__:setup_database:41 - Connected to: C:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-24 16:27:46.298 | INFO     | __main__:execute_sql_file:12 - Executed: Drop.sql
+2025-09-24 16:27:46.347 | INFO     | __main__:execute_sql_file:12 - Executed: CreateTable.sql
+2025-09-24 16:27:46.389 | INFO     | __main__:execute_sql_file:12 - Executed: InsertRecords.sql
+2025-09-24 16:27:46.390 | INFO     | __main__:setup_database:48 - Database setup completed successfully!
+2025-09-24 16:36:39.035 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-24 16:36:39.036 | INFO     | __main__:setup_database:35 - Starting database setup...
+2025-09-24 16:36:39.037 | INFO     | __main__:setup_database:40 - Connected to: C:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-24 16:36:39.057 | INFO     | __main__:execute_sql_file:12 - Executed: Drop.sql
+2025-09-24 16:36:39.081 | INFO     | __main__:execute_sql_file:12 - Executed: CreateTable.sql
+2025-09-24 16:36:39.103 | INFO     | __main__:execute_sql_file:12 - Executed: InsertRecords.sql
+2025-09-24 16:36:39.104 | INFO     | __main__:setup_database:47 - Database setup completed successfully!
+2025-09-24 16:40:21.062 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-24 16:40:21.063 | INFO     | __main__:setup_database:35 - Starting database setup...
+2025-09-24 16:40:21.063 | INFO     | __main__:setup_database:40 - Connected to: C:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-24 16:40:21.084 | INFO     | __main__:execute_sql_file:12 - Executed: Drop.sql
+2025-09-24 16:40:21.108 | INFO     | __main__:execute_sql_file:12 - Executed: CreateTable.sql
+2025-09-24 16:40:21.130 | INFO     | __main__:execute_sql_file:12 - Executed: InsertRecords.sql
+2025-09-24 16:40:21.131 | INFO     | __main__:setup_database:47 - Database setup completed successfully!
+2025-09-24 16:41:31.159 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-24 16:41:31.159 | INFO     | __main__:setup_database:35 - Starting database setup...
+2025-09-24 16:41:31.160 | INFO     | __main__:setup_database:40 - Connected to: C:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-24 16:41:31.180 | INFO     | __main__:execute_sql_file:12 - Executed: Drop.sql
+2025-09-24 16:41:31.200 | INFO     | __main__:execute_sql_file:12 - Executed: CreateTable.sql
+2025-09-24 16:41:31.221 | INFO     | __main__:execute_sql_file:12 - Executed: InsertRecords.sql
+2025-09-24 16:41:31.221 | INFO     | __main__:setup_database:47 - Database setup completed successfully!
+2025-09-24 16:43:08.525 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-24 16:43:08.525 | INFO     | __main__:setup_database:35 - Starting database setup...
+2025-09-24 16:43:08.526 | INFO     | __main__:setup_database:40 - Connected to: C:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-24 16:43:08.545 | INFO     | __main__:execute_sql_file:12 - Executed: Drop.sql
+2025-09-24 16:43:08.567 | INFO     | __main__:execute_sql_file:12 - Executed: CreateTable.sql
+2025-09-24 16:43:08.589 | INFO     | __main__:execute_sql_file:12 - Executed: InsertRecords.sql
+2025-09-24 16:43:08.590 | INFO     | __main__:setup_database:47 - Database setup completed successfully!
+2025-09-24 16:46:38.892 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-24 16:46:38.892 | INFO     | __main__:setup_database:35 - Starting database setup...
+2025-09-24 16:46:38.893 | INFO     | __main__:setup_database:40 - Connected to: C:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-24 16:46:38.916 | INFO     | __main__:execute_sql_file:12 - Executed: Drop.sql
+2025-09-24 16:46:38.942 | INFO     | __main__:execute_sql_file:12 - Executed: CreateTable.sql
+2025-09-24 16:46:38.964 | INFO     | __main__:execute_sql_file:12 - Executed: InsertRecords.sql
+2025-09-24 16:46:38.965 | INFO     | __main__:setup_database:47 - Database setup completed successfully!
+2025-09-24 16:47:08.130 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-24 16:47:08.130 | INFO     | __main__:setup_database:35 - Starting database setup...
+2025-09-24 16:47:08.131 | INFO     | __main__:setup_database:40 - Connected to: C:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-24 16:47:08.151 | INFO     | __main__:execute_sql_file:12 - Executed: Drop.sql
+2025-09-24 16:47:08.172 | INFO     | __main__:execute_sql_file:12 - Executed: CreateTable.sql
+2025-09-24 16:47:08.198 | INFO     | __main__:execute_sql_file:12 - Executed: InsertRecords.sql
+2025-09-24 16:47:08.198 | INFO     | __main__:setup_database:47 - Database setup completed successfully!
+2025-09-24 16:47:12.135 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-24 16:47:12.136 | INFO     | __main__:setup_database:35 - Starting database setup...
+2025-09-24 16:47:12.136 | INFO     | __main__:setup_database:40 - Connected to: C:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-24 16:47:12.153 | INFO     | __main__:execute_sql_file:12 - Executed: Drop.sql
+2025-09-24 16:47:12.177 | INFO     | __main__:execute_sql_file:12 - Executed: CreateTable.sql
+2025-09-24 16:47:12.197 | INFO     | __main__:execute_sql_file:12 - Executed: InsertRecords.sql
+2025-09-24 16:47:12.197 | INFO     | __main__:setup_database:47 - Database setup completed successfully!
+2025-09-24 16:48:03.548 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-24 16:48:03.548 | INFO     | __main__:setup_database:35 - Starting database setup...
+2025-09-24 16:48:03.549 | INFO     | __main__:setup_database:40 - Connected to: C:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-24 16:48:03.571 | INFO     | __main__:execute_sql_file:12 - Executed: Drop.sql
+2025-09-24 16:48:03.594 | INFO     | __main__:execute_sql_file:12 - Executed: CreateTable.sql
+2025-09-24 16:48:03.613 | INFO     | __main__:execute_sql_file:12 - Executed: InsertRecords.sql
+2025-09-24 16:48:03.614 | INFO     | __main__:setup_database:47 - Database setup completed successfully!
+2025-09-24 16:48:44.232 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-24 16:48:44.233 | INFO     | __main__:setup_database:35 - Starting database setup...
+2025-09-24 16:48:44.233 | INFO     | __main__:setup_database:40 - Connected to: C:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-24 16:48:44.256 | INFO     | __main__:execute_sql_file:12 - Executed: Drop.sql
+2025-09-24 16:48:44.279 | INFO     | __main__:execute_sql_file:12 - Executed: CreateTable.sql
+2025-09-24 16:48:44.300 | INFO     | __main__:execute_sql_file:12 - Executed: InsertRecords.sql
+2025-09-24 16:48:44.300 | INFO     | __main__:setup_database:47 - Database setup completed successfully!
