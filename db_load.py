@@ -10,9 +10,13 @@ def execute_sql_file(connection, file_path):
         with open(file_path, 'r') as file:
             connection.executescript(file.read())
         logger.info(f"Executed: {os.path.basename(file_path)}")
+    except FileNotFoundError as e:
+        logger.error(f"File not found: {file_path}")
+        raise
     except Exception as e:
         logger.error(f"Failed to execute {os.path.basename(file_path)}: {e}")
         raise
+     
 
 def setup_database():
     """Database creation"""

@@ -88,3 +88,10 @@
 2025-09-24 16:56:19.463 | INFO     | __main__:execute_sql_file:12 - Executed: CreateTable.sql
 2025-09-24 16:56:19.486 | INFO     | __main__:execute_sql_file:12 - Executed: InsertRecords.sql
 2025-09-24 16:56:19.486 | INFO     | __main__:setup_database:47 - Database setup completed successfully!
+2025-09-24 16:59:39.987 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-24 16:59:39.988 | INFO     | __main__:setup_database:39 - Starting database setup...
+2025-09-24 16:59:39.989 | INFO     | __main__:setup_database:44 - Connected to: C:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-24 16:59:40.011 | INFO     | __main__:execute_sql_file:12 - Executed: Drop.sql
+2025-09-24 16:59:40.033 | INFO     | __main__:execute_sql_file:12 - Executed: CreateTable.sql
+2025-09-24 16:59:40.055 | INFO     | __main__:execute_sql_file:12 - Executed: InsertRecords.sql
+2025-09-24 16:59:40.055 | INFO     | __main__:setup_database:51 - Database setup completed successfully!
