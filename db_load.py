@@ -73,14 +73,39 @@ def show_authors_info():
         
     except Exception as e:
         logger.error(f"Error reading authors table: {e}")
+        
+def show_books_info():
+    """Display basic info about the database"""
+    
+    ROOT_DIR = os.path.dirname(__file__)
+    DB_PATH = os.path.join(ROOT_DIR, "data", "sample.sqlite") #join to the database file name 
+    
+    if not os.path.exists(DB_PATH):
+        print("Database not found. Run setup first.")
+        return
+    
+    try:
+       
+        df = pd.read_sql_query("SELECT * FROM books", sqlite3.connect(DB_PATH))
+        
+        print("\n" + "="*50)
+        print("BOOKS TABLE")
+        print("="*50)
+        print(df.to_string(index=False))
+        print(f"\nTotal records: {len(df)}")
+        
+    except Exception as e:
+        logger.error(f"Error reading authors table: {e}")
+
 
 def main():
     """Main function"""
     
     # Setup database
     if setup_database():
-        # Show info about what was created
+        # Show records in authors and books table
         show_authors_info()
+        show_books_info()
     else:
         print("Setup failed!")
 
