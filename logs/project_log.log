@@ -95,3 +95,192 @@
 2025-09-24 16:59:40.033 | INFO     | __main__:execute_sql_file:12 - Executed: CreateTable.sql
 2025-09-24 16:59:40.055 | INFO     | __main__:execute_sql_file:12 - Executed: InsertRecords.sql
 2025-09-24 16:59:40.055 | INFO     | __main__:setup_database:51 - Database setup completed successfully!
+2025-09-24 17:07:43.886 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-24 17:07:43.886 | INFO     | __main__:setup_database:39 - Starting database setup...
+2025-09-24 17:07:43.887 | INFO     | __main__:setup_database:44 - Connected to: C:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-24 17:07:43.909 | INFO     | __main__:execute_sql_file:12 - Executed: Drop.sql
+2025-09-24 17:07:43.935 | INFO     | __main__:execute_sql_file:12 - Executed: CreateTable.sql
+2025-09-24 17:07:43.955 | INFO     | __main__:execute_sql_file:12 - Executed: InsertRecords.sql
+2025-09-24 17:07:43.955 | INFO     | __main__:setup_database:51 - Database setup completed successfully!
+2025-09-24 20:19:45.394 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-24 20:19:45.395 | INFO     | __main__:setup_database:39 - Starting database setup...
+2025-09-24 20:19:45.396 | INFO     | __main__:setup_database:44 - Connected to: C:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-24 20:19:45.419 | INFO     | __main__:execute_sql_file:12 - Executed: Drop.sql
+2025-09-24 20:19:45.442 | INFO     | __main__:execute_sql_file:12 - Executed: CreateTable.sql
+2025-09-24 20:19:45.466 | INFO     | __main__:execute_sql_file:12 - Executed: InsertRecords.sql
+2025-09-24 20:19:45.467 | INFO     | __main__:setup_database:51 - Database setup completed successfully!
+2025-09-24 20:20:16.707 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-24 20:20:16.708 | INFO     | __main__:setup_database:39 - Starting database setup...
+2025-09-24 20:20:16.708 | INFO     | __main__:setup_database:44 - Connected to: C:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-24 20:20:16.733 | INFO     | __main__:execute_sql_file:12 - Executed: Drop.sql
+2025-09-24 20:20:16.758 | INFO     | __main__:execute_sql_file:12 - Executed: CreateTable.sql
+2025-09-24 20:20:16.781 | INFO     | __main__:execute_sql_file:12 - Executed: InsertRecords.sql
+2025-09-24 20:20:16.781 | INFO     | __main__:setup_database:51 - Database setup completed successfully!
+2025-09-25 11:03:20.368 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-25 11:03:20.369 | INFO     | __main__:setup_database:39 - Starting database setup...
+2025-09-25 11:03:20.370 | INFO     | __main__:setup_database:44 - Connected to: C:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-25 11:03:20.389 | INFO     | __main__:execute_sql_file:12 - Executed: Drop.sql
+2025-09-25 11:03:20.409 | INFO     | __main__:execute_sql_file:12 - Executed: CreateTable.sql
+2025-09-25 11:03:20.430 | INFO     | __main__:execute_sql_file:12 - Executed: InsertRecords.sql
+2025-09-25 11:03:20.430 | INFO     | __main__:setup_database:51 - Database setup completed successfully!
+2025-09-25 11:08:47.745 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-25 11:08:47.746 | INFO     | __main__:setup_database:39 - Starting database setup...
+2025-09-25 11:08:47.747 | INFO     | __main__:setup_database:44 - Connected to: C:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-25 11:08:47.777 | INFO     | __main__:execute_sql_file:12 - Executed: Drop.sql
+2025-09-25 11:08:47.808 | INFO     | __main__:execute_sql_file:12 - Executed: CreateTable.sql
+2025-09-25 11:08:47.844 | INFO     | __main__:execute_sql_file:12 - Executed: InsertRecords.sql
+2025-09-25 11:08:47.844 | INFO     | __main__:setup_database:52 - Database setup completed successfully!
+2025-09-26 13:25:05.230 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 13:25:05.231 | INFO     | __main__:setup_database:39 - Starting database setup...
+2025-09-26 13:25:05.234 | INFO     | __main__:setup_database:44 - Connected to: C:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-26 13:25:05.273 | INFO     | __main__:execute_sql_file:12 - Executed: Drop.sql
+2025-09-26 13:25:05.314 | INFO     | __main__:execute_sql_file:12 - Executed: CreateTable.sql
+2025-09-26 13:25:05.356 | INFO     | __main__:execute_sql_file:12 - Executed: InsertRecords.sql
+2025-09-26 13:25:05.356 | INFO     | __main__:setup_database:52 - Database setup completed successfully!
+2025-09-26 15:17:31.260 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 15:17:31.261 | INFO     | __main__:setup_database:39 - Starting database setup...
+2025-09-26 15:17:31.265 | INFO     | __main__:setup_database:44 - Connected to: c:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-26 15:17:31.291 | INFO     | __main__:execute_sql_file:12 - Executed: Drop.sql
+2025-09-26 15:17:31.330 | INFO     | __main__:execute_sql_file:12 - Executed: CreateTable.sql
+2025-09-26 15:17:31.379 | INFO     | __main__:execute_sql_file:12 - Executed: InsertRecords.sql
+2025-09-26 15:17:31.379 | INFO     | __main__:setup_database:52 - Database setup completed successfully!
+2025-09-26 16:10:07.090 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 16:10:07.091 | INFO     | __main__:setup_database:39 - Starting database setup...
+2025-09-26 16:10:07.091 | INFO     | __main__:setup_database:44 - Connected to: c:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-26 16:10:07.091 | ERROR    | __main__:execute_sql_file:14 - File not found: c:\Repos\datafun-05-sql\sql_files\Drop.sql
+2025-09-26 16:10:07.092 | ERROR    | __main__:setup_database:56 - Database setup failed: [Errno 2] No such file or directory: 'c:\\Repos\\datafun-05-sql\\sql_files\\Drop.sql'
+2025-09-26 16:11:24.730 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 16:11:24.731 | INFO     | __main__:setup_database:39 - Starting database setup...
+2025-09-26 16:11:24.731 | INFO     | __main__:setup_database:44 - Connected to: c:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-26 16:11:24.732 | ERROR    | __main__:execute_sql_file:14 - File not found: c:\Repos\datafun-05-sql\sql_files\Drop.sql
+2025-09-26 16:11:24.732 | ERROR    | __main__:setup_database:56 - Database setup failed: [Errno 2] No such file or directory: 'c:\\Repos\\datafun-05-sql\\sql_files\\Drop.sql'
+2025-09-26 16:13:23.249 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 16:13:23.250 | INFO     | __main__:setup_database:39 - Starting database setup...
+2025-09-26 16:13:23.250 | INFO     | __main__:setup_database:44 - Connected to: c:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-26 16:13:23.251 | ERROR    | __main__:execute_sql_file:14 - File not found: c:\Repos\datafun-05-sql\sql_files\Drop.sql
+2025-09-26 16:13:23.251 | ERROR    | __main__:setup_database:56 - Database setup failed: [Errno 2] No such file or directory: 'c:\\Repos\\datafun-05-sql\\sql_files\\Drop.sql'
+2025-09-26 16:15:35.120 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 16:15:35.121 | INFO     | __main__:setup_database:39 - Starting database setup...
+2025-09-26 16:15:35.121 | INFO     | __main__:setup_database:44 - Connected to: c:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-26 16:15:35.122 | ERROR    | __main__:setup_database:56 - Database setup failed: name 'sql_create' is not defined
+2025-09-26 16:17:43.690 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 16:17:43.690 | INFO     | __main__:setup_database:39 - Starting database setup...
+2025-09-26 16:17:43.691 | INFO     | __main__:setup_database:44 - Connected to: c:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-26 16:17:43.691 | ERROR    | __main__:setup_database:56 - Database setup failed: name 'SQL_FILES' is not defined
+2025-09-26 16:19:18.125 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 16:19:18.126 | INFO     | __main__:setup_database:39 - Starting database setup...
+2025-09-26 16:19:18.126 | INFO     | __main__:setup_database:44 - Connected to: c:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-26 16:19:18.127 | ERROR    | __main__:setup_database:56 - Database setup failed: name 'sql_create' is not defined
+2025-09-26 16:26:20.623 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 16:26:20.624 | INFO     | __main__:setup_database:39 - Starting database setup...
+2025-09-26 16:26:20.625 | INFO     | __main__:setup_database:44 - Connected to: c:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-26 16:26:20.626 | ERROR    | __main__:setup_database:56 - Database setup failed: name 'sql_create' is not defined
+2025-09-26 16:27:39.084 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 16:27:39.084 | INFO     | __main__:setup_database:39 - Starting database setup...
+2025-09-26 16:27:39.084 | INFO     | __main__:setup_database:44 - Connected to: c:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-26 16:27:39.085 | ERROR    | __main__:setup_database:56 - Database setup failed: join() argument must be str, bytes, or os.PathLike object, not 'list'
+2025-09-26 16:31:02.134 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 16:31:02.134 | INFO     | __main__:setup_database:39 - Starting database setup...
+2025-09-26 16:31:02.135 | INFO     | __main__:setup_database:44 - Connected to: c:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-26 16:31:02.164 | INFO     | __main__:execute_sql_create:12 - Executed: Drop.sql
+2025-09-26 16:31:02.193 | INFO     | __main__:execute_sql_create:12 - Executed: CreateTable.sql
+2025-09-26 16:31:02.225 | ERROR    | __main__:execute_sql_create:17 - Failed to execute InsertRecords.sql: near "(": syntax error
+2025-09-26 16:31:02.225 | ERROR    | __main__:setup_database:56 - Database setup failed: near "(": syntax error
+2025-09-26 16:35:44.250 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 16:35:44.251 | INFO     | __main__:setup_database:39 - Starting database setup...
+2025-09-26 16:35:44.252 | INFO     | __main__:setup_database:44 - Connected to: C:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-26 16:35:44.287 | INFO     | __main__:execute_sql_create:12 - Executed: Drop.sql
+2025-09-26 16:35:44.310 | INFO     | __main__:execute_sql_create:12 - Executed: CreateTable.sql
+2025-09-26 16:35:44.356 | INFO     | __main__:execute_sql_create:12 - Executed: InsertRecords.sql
+2025-09-26 16:35:44.356 | INFO     | __main__:setup_database:52 - Database setup completed successfully!
+2025-09-26 17:02:41.251 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 17:02:41.270 | ERROR    | __main__:execute_sql_update_delete:18 - Failed to execute update_records.sql: no such table: Employees
+2025-09-26 17:04:32.853 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 17:04:32.854 | ERROR    | __main__:execute_sql_update_delete:18 - Failed to execute update_records.sql: no such table: Employees
+2025-09-26 17:04:43.412 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 17:04:43.413 | ERROR    | __main__:execute_sql_update_delete:18 - Failed to execute update_records.sql: no such table: Employees
+2025-09-26 17:06:34.423 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 17:06:34.424 | ERROR    | __main__:execute_sql_update_delete:18 - Failed to execute update_records.sql: no such table: Employees
+2025-09-26 17:09:59.006 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 17:09:59.008 | ERROR    | __main__:execute_sql_update_delete:18 - Failed to execute update_records.sql: no such table: Employees
+2025-09-26 17:12:15.958 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 17:12:15.979 | ERROR    | __main__:execute_sql_update_delete:18 - Failed to execute update_records.sql: no such table: employees
+2025-09-26 17:14:59.291 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 17:14:59.313 | INFO     | __main__:execute_sql_update_delete:14 - Executed: update_records.sql
+2025-09-26 17:14:59.352 | INFO     | __main__:execute_sql_update_delete:14 - Executed: delete_records.sql
+2025-09-26 17:20:06.325 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 17:20:06.339 | ERROR    | __main__:execute_sql_update_delete:22 - Unexpected error in update_records.sql: name 'os' is not defined
+2025-09-26 17:21:01.420 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 17:21:01.432 | INFO     | __main__:execute_sql_update_delete:14 - Executed: update_records.sql
+2025-09-26 17:21:01.433 | INFO     | __main__:execute_sql_update_delete:14 - Executed: delete_records.sql
+2025-09-26 18:00:23.955 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 18:00:23.975 | INFO     | __main__:sql_queries:12 - Executed: query_aggregation.sql
+2025-09-26 18:00:23.993 | INFO     | __main__:sql_queries:12 - Executed: query_filter.sql
+2025-09-26 18:00:24.009 | INFO     | __main__:sql_queries:12 - Executed: query_group_by.sql
+2025-09-26 18:00:24.010 | INFO     | __main__:sql_queries:12 - Executed: query_join.sql
+2025-09-26 18:00:24.021 | INFO     | __main__:sql_queries:12 - Executed: query_sorting.sql
+2025-09-26 18:31:12.510 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 18:31:12.528 | INFO     | __main__:sql_queries:12 - Executed: query_aggregation.sql
+2025-09-26 18:31:12.530 | INFO     | __main__:sql_queries:12 - Executed: query_filter.sql
+2025-09-26 18:31:12.531 | INFO     | __main__:sql_queries:12 - Executed: query_group_by.sql
+2025-09-26 18:31:12.532 | INFO     | __main__:sql_queries:12 - Executed: query_join.sql
+2025-09-26 18:31:12.533 | INFO     | __main__:sql_queries:12 - Executed: query_sorting.sql
+2025-09-26 18:37:23.119 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 18:37:23.122 | INFO     | __main__:sql_queries:27 - Executed: query_aggregation.sql
+2025-09-26 18:37:23.126 | INFO     | __main__:sql_queries:27 - Executed: query_filter.sql
+2025-09-26 18:37:23.127 | INFO     | __main__:sql_queries:27 - Executed: query_group_by.sql
+2025-09-26 18:37:23.128 | INFO     | __main__:sql_queries:27 - Executed: query_join.sql
+2025-09-26 18:37:23.131 | INFO     | __main__:sql_queries:27 - Executed: query_sorting.sql
+2025-09-26 18:39:56.468 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 18:39:56.472 | INFO     | __main__:sql_queries:29 - Executed: query_aggregation.sql
+2025-09-26 18:39:56.482 | INFO     | __main__:sql_queries:29 - Executed: query_filter.sql
+2025-09-26 18:39:56.484 | INFO     | __main__:sql_queries:29 - Executed: query_group_by.sql
+2025-09-26 18:39:56.484 | INFO     | __main__:sql_queries:29 - Executed: query_join.sql
+2025-09-26 18:39:56.497 | INFO     | __main__:sql_queries:29 - Executed: query_sorting.sql
+2025-09-26 18:42:07.167 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 18:42:07.170 | INFO     | __main__:sql_queries:29 - Executed: query_aggregation.sql
+2025-09-26 18:42:07.177 | INFO     | __main__:sql_queries:29 - Executed: query_filter.sql
+2025-09-26 18:42:07.183 | INFO     | __main__:sql_queries:29 - Executed: query_group_by.sql
+2025-09-26 18:42:07.210 | INFO     | __main__:sql_queries:29 - Executed: query_join.sql
+2025-09-26 18:42:07.219 | INFO     | __main__:sql_queries:29 - Executed: query_sorting.sql
+2025-09-26 18:42:52.182 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 18:42:52.184 | INFO     | __main__:sql_queries:29 - Executed: query_aggregation.sql
+2025-09-26 18:42:52.189 | INFO     | __main__:sql_queries:29 - Executed: query_filter.sql
+2025-09-26 18:42:52.215 | INFO     | __main__:sql_queries:29 - Executed: query_group_by.sql
+2025-09-26 18:42:52.219 | INFO     | __main__:sql_queries:29 - Executed: query_join.sql
+2025-09-26 18:42:52.223 | INFO     | __main__:sql_queries:29 - Executed: query_sorting.sql
+2025-09-26 18:43:55.182 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 18:43:55.209 | INFO     | __main__:sql_queries:29 - Executed: query_aggregation.sql
+2025-09-26 18:43:55.213 | INFO     | __main__:sql_queries:29 - Executed: query_filter.sql
+2025-09-26 18:43:55.215 | INFO     | __main__:sql_queries:29 - Executed: query_group_by.sql
+2025-09-26 18:43:55.218 | INFO     | __main__:sql_queries:29 - Executed: query_join.sql
+2025-09-26 18:43:55.227 | INFO     | __main__:sql_queries:29 - Executed: query_sorting.sql
+2025-09-26 18:52:41.129 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 18:53:40.081 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 18:53:40.095 | INFO     | __main__:sql_queries:37 - Executed: query_aggregation.sql
+2025-09-26 18:53:40.099 | INFO     | __main__:sql_queries:37 - Executed: query_filter.sql
+2025-09-26 18:53:40.104 | INFO     | __main__:sql_queries:37 - Executed: query_group_by.sql
+2025-09-26 18:53:40.110 | INFO     | __main__:sql_queries:37 - Executed: query_join.sql
+2025-09-26 18:53:40.116 | INFO     | __main__:sql_queries:37 - Executed: query_sorting.sql
+2025-09-26 18:56:22.372 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 18:56:22.378 | INFO     | __main__:sql_queries:41 - Executed: query_aggregation.sql
+2025-09-26 18:56:22.381 | INFO     | __main__:sql_queries:41 - Executed: query_filter.sql
+2025-09-26 18:56:22.386 | INFO     | __main__:sql_queries:41 - Executed: query_group_by.sql
+2025-09-26 18:56:22.390 | INFO     | __main__:sql_queries:41 - Executed: query_join.sql
+2025-09-26 18:56:22.394 | INFO     | __main__:sql_queries:41 - Executed: query_sorting.sql
+2025-09-26 19:03:37.252 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 19:03:37.252 | INFO     | __main__:setup_database:39 - Starting database setup...
+2025-09-26 19:03:37.253 | INFO     | __main__:setup_database:44 - Connected to: C:\Repos\datafun-05-sql\data\sample.sqlite
+2025-09-26 19:03:37.287 | INFO     | __main__:execute_sql_create:12 - Executed: Drop.sql
+2025-09-26 19:03:37.317 | INFO     | __main__:execute_sql_create:12 - Executed: CreateTable.sql
+2025-09-26 19:03:37.355 | INFO     | __main__:execute_sql_create:12 - Executed: InsertRecords.sql
+2025-09-26 19:03:37.356 | INFO     | __main__:setup_database:52 - Database setup completed successfully!
+2025-09-26 19:03:55.906 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 19:03:55.946 | INFO     | __main__:execute_sql_update_delete:14 - Executed: update_records.sql
+2025-09-26 19:03:55.985 | INFO     | __main__:execute_sql_update_delete:14 - Executed: delete_records.sql
+2025-09-26 19:04:01.167 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-09-26 19:04:01.175 | INFO     | __main__:sql_queries:41 - Executed: query_aggregation.sql
+2025-09-26 19:04:01.180 | INFO     | __main__:sql_queries:41 - Executed: query_filter.sql
+2025-09-26 19:04:01.184 | INFO     | __main__:sql_queries:41 - Executed: query_group_by.sql
+2025-09-26 19:04:01.187 | INFO     | __main__:sql_queries:41 - Executed: query_join.sql
+2025-09-26 19:04:01.194 | INFO     | __main__:sql_queries:41 - Executed: query_sorting.sql
